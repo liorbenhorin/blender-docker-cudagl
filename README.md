@@ -27,7 +27,6 @@ docker run -it --gpus=all --rm liorbenhorin/blender35:latest <pass your blender 
 
 ```shell
 dokcer build -t blender35:latest .
-
 ```
 
 ## Test
